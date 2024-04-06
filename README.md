@@ -12,7 +12,7 @@ Este projeto consiste em uma tela simples desenvolvida em Flutter, que exibe inf
 - **ListTiles**: Utilizado para exibir informações como e-mail e telefone.
 - **CircleAvatar**: Utilizado para exibir uma imagem circular do usuário.
 - **Icons**: Utilizado para exibir ícones de e-mail e telefone.
-- **Outros Widgets**: Descreva outros widgets utilizados no projeto, como Text, Container, etc.
+- **Outros Widgets**
 
 ## Como Executar
 
