@@ -25,4 +25,4 @@ Este projeto consiste em uma tela simples desenvolvida em Flutter, que exibe inf
 
 ## Autor
 
-Seu Nome - Lucas Muner Garcia)
+Lucas Muner Garcia
