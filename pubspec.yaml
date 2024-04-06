@@ -1,0 +1,44 @@
+name: flutter_study
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+  fonts:
+    - family: PixelifySans
+      fonts:
+        - asset: fonts/PixelifySans-VariableFont_wght.ttf
+
+    - family: LibreBaskerville
+      fonts:
+        - asset: fonts/LibreBaskerville-Regular.ttf
+
+    - family: SourceSans
+      fonts:
+        - asset: fonts/SourceSans3-Regular.ttf
+
+    - family: BungeeSpice
+      fonts:
+        - asset: fonts/BungeeSpice-Regular.ttf
+
+    - family: Pacifico
+      fonts:
+        - asset: fonts/Pacifico-Regular.ttf
