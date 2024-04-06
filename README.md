@@ -4,6 +4,8 @@ Este projeto consiste em uma tela simples desenvolvida em Flutter, que exibe inf
 
 ## Capturas de tela
 
+![Tela:](tela/tela_inicial.png)
+
 
 ## Recursos e Widgets Utilizados
 
