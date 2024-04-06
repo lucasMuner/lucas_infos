@@ -7,12 +7,12 @@ Este projeto consiste em uma tela simples desenvolvida em Flutter, que exibe inf
 
 ## Recursos e Widgets Utilizados
 
-- **Columns**: Utilizado para organizar os elementos na vertical.
+- **Container**: Utilizado para organizar os elementos na vertical.
 - **Cards**: Utilizado para exibir as informações pessoais em cartões individuais.
 - **ListTiles**: Utilizado para exibir informações como e-mail e telefone.
 - **CircleAvatar**: Utilizado para exibir uma imagem circular do usuário.
 - **Icons**: Utilizado para exibir ícones de e-mail e telefone.
-- **Outros Widgets**
+- **Outros Widgets**: Descreva outros widgets utilizados no projeto, como Text, Container, etc.
 
 ## Como Executar
 
